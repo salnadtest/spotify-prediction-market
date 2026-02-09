@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
